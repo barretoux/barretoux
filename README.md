@@ -1,7 +1,7 @@
 ## E aí 🤙 eu sou o Gabriel, estudante de programação 😉
 
 <h3>Tudo tranquilo?</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Atualmente estou me aperfeiçoando em Javascript e Typescript!! Gosto muito do Front end e tenho CSS avançado (Flexbox, Grid, seletores...). &nbsp;&nbsp;&nbsp;&nbsp;Estou explorando Frameworks (especialmente o Tailwind) e pretendo focar em aprender React JS em seguida. Além disso, eu tenho um nível de inglês avançado, sound good? 😁</p><br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Atualmente estou me aperfeiçoando em Javascript e Typescript!! Gosto muito do Front end e tenho CSS avançado (Flexbox, Grid, seletores...). Estou explorando Frameworks (especialmente o Tailwind) e pretendo focar em aprender React JS em seguida. Além disso, eu tenho um nível de inglês avançado, sound good? 😁</p><br />
 
 <div>
   <img align="center" alt="Barreto-Js" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -24,8 +24,8 @@
 ##
 
 <div>
-  <a href="https://instagram.com/barretoux" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
-  <a href="mailto:gabriel.foontouraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-barreto-a80936219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://barretoux.github.io/site_portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a>
+  <a href="https://instagram.com/barretoux" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:gabriel.foontouraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-barreto-a80936219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://barretoux.github.io/site_portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
