@@ -1,7 +1,7 @@
 ## E aí 🤙 eu sou o Gabriel, estudante de programação 😉
 
 <h3>Tudo tranquilo?</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Atualmente estou me aperfeiçoando em Javascript e Typescript!! Gosto muito do Front end e tenho CSS avançado (Flexbox, Grid, seletores...). Estou explorando Frameworks (especialmente o Tailwind) e pretendo focar em aprender React JS em seguida. Além disso, eu tenho um nível de inglês avançado, sound good? 😁</p><br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Atualmente estou me aperfeiçoando em Javascript e Typescript!! Gosto muito do Front end e tenho CSS avançado (Flexbox, Grid, seletores...). &nbsp;&nbsp;&nbsp;&nbsp;Estou explorando Frameworks (especialmente o Tailwind) e pretendo focar em aprender React JS em seguida. Além disso, eu tenho um nível de inglês avançado, sound good? 😁</p><br />
 
 <div>
   <img align="center" alt="Barreto-Js" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
