@@ -9,15 +9,15 @@
   <img align="center" alt="Barreto-Html" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Barreto-Css" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Barreto-Tw" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Barreto-Tw" height="38" width="37" src="https://cdn.discordapp.com/attachments/1079578268040171530/1256095132906815620/ingles-sem-fundo.png?ex=667f8540&is=667e33c0&hm=feacd5c63b1a7cf4adc2d725f41c3be8a5bf0ed39fcf6d9b367799d2630f802e&" />
+  <img align="center" alt="Barreto-Tw" height="38" width="37" src="https://cdn.discordapp.com/attachments/1079578268040171530/1257007537275015258/ingles-sem-fundo-removebg-preview.png?ex=6682d6fe&is=6681857e&hm=56379ddac5caa2a789436772a44e9d2ad335494717fa9544641045a8d73926a5&" />
 </div>
 
 ##
 
-<div>
+<div align="">
   <a href="https://github.com/barretoux/github-readme-stats">
-    <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=barretoux&show_icons=true&theme=holi&include_all_commits=true">
-    <img height="240px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barretoux&layout=donut&langs_count=16&theme=catppuccin_mocha">
+    <img height="176px" align="center" src="https://github-readme-stats.vercel.app/api?username=barretoux&show_icons=true&theme=holi&include_all_commits=true">
+    <img height="192px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barretoux&layout=donut&langs_count=16&theme=catppuccin_mocha">
   </a>
 </div>
 
